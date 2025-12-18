@@ -10,7 +10,7 @@ This project goes beyond basic weather applications by combining large language 
 
 Watch the full demo on YouTube:
 
-[AI Weather Assistant Demo](https://www.youtube.com/cbJtf-tMfUw)
+[AI Weather Assistant Demo](https://youtu.be/cbJtf-tMfUw?si=gRFOfj0-JBiSC2v5)
 
 
 ---
